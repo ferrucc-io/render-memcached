@@ -21,4 +21,4 @@ Use the button below to deploy a persistent Memcached instance on Render.
 
 Click `Save` and you're good to go! Once deployed, your Memcached instance will be available on a URL similar to `memcached:11211`, and you can start using your Memcached URL from other services in your Render account.
 
-If you need help, you can always chat with us at https://render.com/chat.
+If you need help, you can always chat with the Render community at: https://render.com/chat
