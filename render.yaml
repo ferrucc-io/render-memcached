@@ -1,0 +1,4 @@
+services:
+    - type: pserv
+      name: memcached
+      env: docker
